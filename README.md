@@ -15,6 +15,7 @@ ForShop_BackNode 使用 Node.js + Express + MySQL 建立之購物網站後端專
 ## API 格式範例
 
 - [所有商品](https://murmuring-headland-35646.herokuapp.com/products)
+- [所有商品類別](https://murmuring-headland-35646.herokuapp.com/categoryies)
 
 ## Project setup
 ```
